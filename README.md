@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🎓 1B CS/BBA @ uWaterloo/WLU '29
+* 🎓 2A CS/BBA @ uWaterloo/WLU '29
 * 📖 I’m currently learning: SQL
 * 💻 I’m currently working on: Integrating PlotIt-AI into Adobe Acrobat
 * 📫 How to reach me: Baderjabri.15@gmail.com
