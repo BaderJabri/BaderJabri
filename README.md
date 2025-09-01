@@ -18,8 +18,15 @@ Here are some ideas to get you started:
 * 📖 I’m currently learning: SQL
 * 💻 I’m currently working on: Integrating PlotIt-AI into Adobe Acrobat
 * 📫 How to reach me: Baderjabri.15@gmail.com
+* 💡 Learn more about me at BaderJabri.ca
 
-
+<h2 align="center">🧰 Languages-Apps-Frameworks-Tools 🧰</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,python,cpp,c,javascript,typescript,java" />
+    <img src="https://skillicons.dev/icons?i=vscode,autocad,github,figma,blender,unity,unreal" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,git,nextjs,tailwind,docker,svg" /><br>
+</div>
 
 <h2 align="center">Stats</h2>
 <br>
